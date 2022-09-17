@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Golang, Design patterns, Database designs**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Open source projects** tell me if you have an interesting one :)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahdignb](https://github.com/mahdignb)
 
-- 💬 Ask me about **C#, MySql**
+- 💬 Ask me about **C#** I will be happy to help, just send me a message on any social network below
 
 - 📫 How to reach me **mahdignb@hotmail.com**
 - 📄 Know about my experiences [linkedin.com/in/mahdignb](linkedin.com/in/mahdignb)
