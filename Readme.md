@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C#** I will be happy to help, just send me a message on any social network below
 
-- 📫 How to reach me **mahdignb@hotmail.com**
+- 📫 How to reach me  [Linkedin](linkedin.com/in/mahdignb) ,  **mahdignb@hotmail.com**
 - 📄 Know about my experiences [linkedin.com/in/mahdignb](linkedin.com/in/mahdignb)
 - 🌐 My website (under construction) [mahdignb.ir](www.mahdignb.ir)
 
