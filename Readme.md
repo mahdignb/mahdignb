@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdignb&label=Profile%20views&color=0e75b6&style=flat" alt="mahdignb" /> </p>
 
-- 🌱 I’m currently learning **Golang, Design patterns, Database designs**
+- 🌱 I’m currently learning and getting experiences IN ( **Design patterns, Database designs , Dapper, SignalR** )
 
 - 👯 I’m looking to collaborate on **Open source projects** tell me if you have an interesting one :)
 
