@@ -10,9 +10,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mahdignb](https://github.com/mahdignb)
 
 - 💬 Ask me about **C#** I will be happy to help, just send me a message on any social network below
-
-- 📫 How to reach me  [Linkedin](linkedin.com/in/mahdignb) ,  **mahdignb@hotmail.com**
-- 📄 Know about my experiences [linkedin.com/in/mahdignb](linkedin.com/in/mahdignb)
+- 📫 How to reach me  [Linkedin](https://linkedin.com/in/mahdignb) ,  **mahdignb@hotmail.com**
+- 📄 Know about my experiences [linkedin.com/in/mahdignb](https://linkedin.com/in/mahdignb)
 - 🌐 My website (under construction) [mahdignb.ir](www.mahdignb.ir)
 
 **Most of the time I commit on my [Gitlab](https://gitlab.com/mahdignb) account for work and here is my hobby lab** :)
@@ -22,7 +21,6 @@
 <a href="https://twitter.com/mahdignb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdignb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahdignb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdignb" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12419901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12419901" height="30" width="40" /></a>
-<a href="https://instagram.com/mahdi.gnb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi.gnb" height="30" width="40" /></a>
 <a href="https://medium.com/@mahdignb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahdignb" height="30" width="40" /></a>
 </p>
 
